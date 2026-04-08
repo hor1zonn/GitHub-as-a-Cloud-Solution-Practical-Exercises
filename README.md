@@ -1,1 +1,2 @@
-# GitHub-as-a-Cloud-Solution-Practical-Exercises
+Run:
+python hello.py
